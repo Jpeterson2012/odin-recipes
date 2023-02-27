@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 25px
+}
